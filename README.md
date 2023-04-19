@@ -1,1 +1,3 @@
-# PowerBI
+Pour ce projet, on m'a chargé de faire une étude sur l'eau potable avec Power BI. Trois domaines d'expertise ont été présentés à un bailleur de fond : création de services, modernisation de services et consulting. Je réalise donc un tableau de bord présentant une vue globale de l'accès à l'eau potable dans le monde, qui permettra de choisir les pays à cibler en priorité dès que le bailleur de fonds aura donné sa réponse sur le domaine d'expertise qu'il souhaite financer.
+Si vous y jetez un oeil n'hésitez pas à activer le mode exploration sur les visualisations et à jouer avec les filtres, pratiquement tout est interactif.
+Il y a eu pas mal de travail dans la partie transformation de données également, qui a eu lieu en amont des visualisations.
